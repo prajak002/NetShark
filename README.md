@@ -1,5 +1,5 @@
 # NetShark
-developed a user-centric Python app to enhance network analysis. Unlike Wireshark's complex GUI, this app offers an intuitive interface for beginners. It simplifies tasks like DNS resolution and packet capture, eliminating the need for external tutorials. Additionally, I enhanced filtering mechanisms for improved efficiency. With advanced data storage and visualization, users can explore network packets comprehensively.
+Developed a user-centric Python app to enhance network analysis. Unlike Wireshark's complex GUI, this app offers an intuitive interface for beginners. It simplifies tasks like DNS resolution and packet capture, eliminating the need for external tutorials. Additionally, I enhanced filtering mechanisms for improved efficiency. With advanced data storage and visualization, users can explore network packets comprehensively.
 
 *Install: **
 
